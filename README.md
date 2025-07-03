@@ -14,7 +14,6 @@ A simple command-line application built with Python to track monthly expenses, s
 
 ![Screenshot](Expense_Tracker.png)
 
-> *(Make sure your screenshot is saved as `screenshot.png` in the same directory.)*
 
 ## 🛠 Technologies Used
 
